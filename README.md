@@ -1,2 +1,2 @@
 # Reminders-App
-Created with CodeSandbox
+Created with React.
